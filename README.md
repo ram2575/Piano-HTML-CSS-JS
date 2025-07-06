@@ -2,6 +2,6 @@
 
 
 
-Preview | نتیجه ی کار 😊😉
+Preview
 
 https://codingwithenjoy.github.io/Piano-HTML-CSS-JS/
